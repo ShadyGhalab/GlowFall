@@ -422,6 +422,12 @@ h3 {
   font-weight: 850;
 }
 
+.contact-links .store-link {
+  color: #120b08;
+  background: linear-gradient(135deg, #fff2a8, var(--gold) 45%, #ff9d5c);
+  border-color: transparent;
+}
+
 footer {
   display: flex;
   justify-content: space-between;
