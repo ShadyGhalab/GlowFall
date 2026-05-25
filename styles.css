@@ -431,6 +431,33 @@ footer {
   background: #05030b;
 }
 
+.legal-page {
+  max-width: 58rem;
+  margin-inline: auto;
+  padding: 8rem clamp(1.1rem, 5vw, 5rem) 5rem;
+}
+
+.legal-page h1 {
+  margin-bottom: 1.5rem;
+  font-size: 4.4rem;
+}
+
+.legal-page h2 {
+  margin-top: 2.5rem;
+  font-size: 1.7rem;
+  line-height: 1.15;
+}
+
+.legal-page p {
+  color: var(--muted);
+  font-size: 1.08rem;
+}
+
+.legal-page a {
+  color: var(--gold);
+  font-weight: 800;
+}
+
 @media (max-width: 900px) {
   nav {
     display: none;
@@ -497,7 +524,8 @@ footer {
 
   .hero-lede,
   .section-copy p,
-  .feature-list {
+  .feature-list,
+  .legal-page p {
     font-size: 1.02rem;
   }
 
