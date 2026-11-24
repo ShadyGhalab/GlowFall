@@ -1,0 +1,3 @@
+# Privacy policy review — Glowfall
+
+Draft only. Before publishing, verify the legal controller name and address, contact process, actual vendor retention settings and periods/criteria, processing purposes and legal bases, international transfer safeguards, provider roles, website logs/cookies, age-related treatment and any additional regional requirements. The current draft deliberately does not invent precise retention periods, legal identity or deletion capabilities. Confirm the app candidate's SDK traffic and version rollout against the statements in this policy. Confirm links, effective date and applicability to older app versions. Do not merge/deploy until the owner approves factual and legal details.
